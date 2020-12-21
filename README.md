@@ -11,15 +11,13 @@ Workshop for middle schoolers to learn the basics of Snap! Snap! is a visual, dr
 
 **Purpose:** The main objective of this workshop is to give students a basic understanding of block programming so that they can use Snap! to create their own projects.
 
-**Goal:** Create two projects to teach students how to use event listeners and variables in their own games and how to make turtle graphics in Snap!
+**Goal:** Create two projects to teach students how to use event listeners and variables in their own games and how to make a click alonzo game and pinwheel graphics in Snap!
 
 ## Challenges:
 
-1.  Create a game that makes the sprite disappear when it is clicked
+1.  Create a game that makes the sprite disappear when it is clicked [ClickAlonzo](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/2-start-your-first-snap-app.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
     
 2.  Figuring out the correct turning angles to draw asterisks, polygons, [pinwheels](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/3-blocks-with-inputs.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment), etc.
-    
-3.  Creating a block with an input slot to draw different pictures
     
 ## Resources for Further Learning
 
