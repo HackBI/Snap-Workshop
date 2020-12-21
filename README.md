@@ -17,7 +17,7 @@ Workshop for middle schoolers to learn the basics of Snap! Snap! is a visual, dr
 
 1.  Create a game that makes the sprite disappear when it is clicked [ClickAlonzo](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/2-start-your-first-snap-app.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
     
-2.  Figuring out the correct turning angles to draw asterisks, polygons, [pinwheels](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/3-blocks-with-inputs.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment), etc.
+2.  Figuring out the correct turning angles to draw [pinwheels](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/3-blocks-with-inputs.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment), etc.
     
 ## Resources for Further Learning
 
